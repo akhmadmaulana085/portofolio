@@ -34,7 +34,7 @@ body {
 .description-container {
     display: flex;
     flex-direction: row; 
-    align-items: flex; 
+    align-items: flex-end; 
 	padding:10px;
 	margin:10px;
 }
